@@ -4,6 +4,7 @@
   "description": "A blogging APi that supports creating, viewing, editing, deleting and publishing blog articles",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "jest"
   },
   "author": "Odeh Simon",
